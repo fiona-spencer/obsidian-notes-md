@@ -14,7 +14,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Mern Blog
 
 
 ## Finished
@@ -25,6 +24,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-note-template":"Templates/New Kanban Note.md"}
+{"kanban-plugin":"basic","new-note-template":"Templates/New Kanban Note.md","new-note-folder":"Kanban Boards/Coding Projects"}
 ```
 %%

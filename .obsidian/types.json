@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Created": "date"
+    "Created": "date",
+    "e": "text",
+    "Current Time": "datetime"
   }
 }

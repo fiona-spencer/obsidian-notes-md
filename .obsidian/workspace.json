@@ -25,7 +25,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban Boards/Coding Projects.md"
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
               }
             }
           },
@@ -38,12 +38,12 @@
                 "file": "Templates/New Kanban Note.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/Coding Projects.md",
+                "file": "Templates/New Kanban Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/Coding Projects.md",
+                "file": "Templates/New Kanban Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Boards/Coding Projects.md"
+                "file": "Templates/New Kanban Note.md"
               }
             }
           },
@@ -187,14 +188,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "821e0b12961a3ac8",
+  "active": "cf3a71a2a547a54c",
   "lastOpenFiles": [
+    "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+    "Mern Blog.md",
+    "Kanban Boards/Coding Projects/Mern Blog.md",
+    "Kanban Boards/Coding Projects",
     "Templates/New Kanban Note.md",
     "Untitled.md",
-    "Untitled",
     "Untitled 1.md",
     "Templates",
-    "Kanban Boards/Coding Projects.md",
     "Kanban.md",
     "Kanban Boards",
     "Obsidian Syntax.md",
