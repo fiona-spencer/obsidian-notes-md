@@ -25,7 +25,31 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban Boards/Untitled Kanban.md"
+                "file": "Kanban Boards/Coding Projects.md"
+              }
+            }
+          },
+          {
+            "id": "cf3a71a2a547a54c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Kanban Note.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0d79131c1cca09a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -42,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -109,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/Untitled Kanban.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/Untitled Kanban.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Boards/Untitled Kanban.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -187,10 +210,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "821e0b12961a3ac8",
+  "active": "0d79131c1cca09a1",
   "lastOpenFiles": [
+    "New Kanban Note.md",
+    "Untitled.md",
+    "Untitled",
+    "Kanban Boards/Coding Projects.md",
     "Kanban.md",
-    "Kanban Boards/Untitled Kanban.md",
     "Kanban Boards",
     "Obsidian Syntax.md",
     "Google Calendar.md",
