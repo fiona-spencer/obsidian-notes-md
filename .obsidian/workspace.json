@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Syntax.md",
+                "file": "Kanban.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "89d110a65f1948e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Calendar.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Calendar.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Calendar.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -175,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,13 +180,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "675b154edf4e0b8c",
+  "active": "821e0b12961a3ac8",
   "lastOpenFiles": [
-    "Tables/05 - White red.md",
-    "Google Calendar.md",
     "Obsidian Syntax.md",
+    "Google Calendar.md",
     "README.md",
-    "test yaml.md",
+    "Tables/05 - White red.md",
+    "Kanban.md",
     "Tables/02 - PurpleRed.md",
     "Tables/03 - FlatBlue.md",
     "Tables/01 - Default Table.md",
