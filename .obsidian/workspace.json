@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tables/06 - Yellow cab.md",
+                "file": "Obsidian Syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tables/06 - Yellow cab.md",
+                "file": "Google Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tables/06 - Yellow cab.md",
+                "file": "Google Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tables/06 - Yellow cab.md"
+                "file": "Google Calendar.md"
               }
             }
           },
@@ -193,8 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89d110a65f1948e6",
+  "active": "675b154edf4e0b8c",
   "lastOpenFiles": [
+    "Obsidian Syntax.md",
+    "Tables/06 - Yellow cab.md",
     "Tables/05 - White red.md",
     "Tables/04 - Latex like.md",
     "Tables/03 - FlatBlue.md",
@@ -202,10 +204,8 @@
     "Tables/01 - Default Table.md",
     "Google Calendar.md",
     "tableStyles.css",
-    "Obsidian Syntax.md",
     "README.md",
     "test yaml.md",
-    "Tables/06 - Yellow cab.md",
     "Tables/05 - White red rounded.md",
     "Tables",
     "Daily Notes/2024-04-23.md",
