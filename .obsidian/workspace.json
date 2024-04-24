@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "675b154edf4e0b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Syntax.md",
+                "file": "Google Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Syntax.md",
+                "file": "Google Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Syntax.md"
+                "file": "Google Calendar.md"
               }
             }
           }
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "821e0b12961a3ac8",
+  "active": "675b154edf4e0b8c",
   "lastOpenFiles": [
-    "Daily Notes/2024-04-23.md",
     "Obsidian Syntax.md",
+    "Google Calendar.md",
+    "Daily Notes/2024-04-23.md",
     "Daily Notes",
     "README.md"
   ]
