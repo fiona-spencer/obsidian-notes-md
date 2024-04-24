@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/New Kanban Note.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -191,10 +191,10 @@
   "active": "cf3a71a2a547a54c",
   "lastOpenFiles": [
     "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+    "Templates/New Kanban Note.md",
     "Mern Blog.md",
     "Kanban Boards/Coding Projects/Mern Blog.md",
     "Kanban Boards/Coding Projects",
-    "Templates/New Kanban Note.md",
     "Untitled.md",
     "Untitled 1.md",
     "Templates",

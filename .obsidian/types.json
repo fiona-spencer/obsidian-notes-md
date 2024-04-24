@@ -4,7 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Created": "date",
-    "e": "text",
-    "Current Time": "datetime"
+    "e": "date",
+    "Current Time": "datetime",
+    "Video Link": "text"
   }
 }
