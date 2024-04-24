@@ -1,5 +1,6 @@
 ---
-cssclass: yellowCab, wideTable
+cssclasses:
+  - purpleRed
 ---
 
 # Yellow cab table
