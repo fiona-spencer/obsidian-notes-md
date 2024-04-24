@@ -60,14 +60,26 @@
       "variable_default_values": {}
     }
   ],
-  "prompts": [],
+  "prompts": [
+    {
+      "id": "enkg4bz7ks",
+      "title": "",
+      "description": "",
+      "preview_shell_command": false,
+      "fields": [],
+      "execute_button_text": "Execute"
+    }
+  ],
   "builtin_variables": {},
   "custom_variables": [
     {
       "id": "h5mjarlftu",
       "name": "route",
       "description": "",
-      "default_value": null
+      "default_value": {
+        "type": "value",
+        "value": "obsidian-git"
+      }
     }
   ],
   "custom_shells": [],
