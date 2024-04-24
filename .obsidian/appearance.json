@@ -1,7 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "tableStyles",
+  "cssTheme": "Things",
   "theme": "system",
-  "textFontFamily": "Times New Roman",
-  "interfaceFontFamily": "Times New Roman"
+  "textFontFamily": "Inter,Times New Roman",
+  "interfaceFontFamily": "Inter,Times New Roman",
+  "enabledCssSnippets": [
+    "tableStyles"
+  ]
 }

@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -195,18 +196,18 @@
   },
   "active": "675b154edf4e0b8c",
   "lastOpenFiles": [
-    "Obsidian Syntax.md",
-    "Tables/06 - Yellow cab.md",
     "Tables/05 - White red.md",
-    "Tables/04 - Latex like.md",
-    "Tables/03 - FlatBlue.md",
-    "Tables/02 - PurpleRed.md",
-    "Tables/01 - Default Table.md",
     "Google Calendar.md",
-    "tableStyles.css",
+    "Obsidian Syntax.md",
     "README.md",
     "test yaml.md",
+    "Tables/02 - PurpleRed.md",
+    "Tables/03 - FlatBlue.md",
+    "Tables/01 - Default Table.md",
+    "Tables/04 - Latex like.md",
     "Tables/05 - White red rounded.md",
+    "Tables/06 - Yellow cab.md",
+    "tableStyles.css",
     "Tables",
     "Daily Notes/2024-04-23.md",
     "Daily Notes"
