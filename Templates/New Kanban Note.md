@@ -5,6 +5,7 @@ Created:
 Video Link: https://youtu.be/Kkht2mwSL_I
 aliases:
   - open blog
+{_route: mern-blog
 ---
 [File]{file:///Users/mac/Desktop/Projects 2024/CURRENT/mern-blog}
 

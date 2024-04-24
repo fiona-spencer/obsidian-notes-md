@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Syntax.md",
-                "mode": "preview",
-                "source": false
+                "file": "Templates/New Kanban Note.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Syntax.md",
+                "file": "Templates/New Kanban Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Syntax.md",
+                "file": "Templates/New Kanban Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Syntax.md"
+                "file": "Templates/New Kanban Note.md"
               }
             }
           },
@@ -157,13 +157,37 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e5d374ea9cb57d2a",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cb839bf9b2c74d8",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1a6ee4baba0d833",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +202,11 @@
   },
   "active": "821e0b12961a3ac8",
   "lastOpenFiles": [
-    "README.md",
     "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+    "Obsidian Syntax.md",
+    "README.md",
     "working on .../Google Calendar.md",
     "working on .../Kanban.md",
-    "Obsidian Syntax.md",
     "Templates/New Kanban Note.md",
     "Other",
     "working on ...",
