@@ -27,7 +27,7 @@
       "id": "dvyutyi2v0",
       "platform_specific_commands": {
         "default": "",
-        "darwin": "code . file:///Users/mac/Desktop/Projects 2024/CURRENT/mern-blog"
+        "darwin": "code . {{file:///Users/mac/Desktop/Projects 2024/CURRENT/mern-blog}}"
       },
       "shells": {},
       "alias": "",
