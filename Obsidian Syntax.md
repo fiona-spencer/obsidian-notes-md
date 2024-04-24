@@ -1,4 +1,4 @@
-___
+
 ## Paragraphs
 This is a paragraph
 
@@ -89,3 +89,5 @@ function fancyAlert(arg){
 }
 ```
 
+## Link to File
+[File]{<file:///Users/mac/Desktop/Projects%202024/CURRENT/mern-blog>}

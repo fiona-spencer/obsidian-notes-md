@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/New Kanban Note.md",
+                "file": "Obsidian Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Kanban Note.md",
+                "file": "Obsidian Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Kanban Note.md",
+                "file": "Obsidian Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Kanban Note.md"
+                "file": "Obsidian Syntax.md"
               }
             }
           },
@@ -178,31 +178,33 @@
   },
   "active": "821e0b12961a3ac8",
   "lastOpenFiles": [
-    "Google Calendar.md",
-    "Kanban.md",
     "README.md",
-    "Obsidian Syntax.md",
     "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+    "working on .../Google Calendar.md",
+    "working on .../Kanban.md",
+    "Obsidian Syntax.md",
+    "Templates/New Kanban Note.md",
+    "Other",
+    "working on ...",
     "Untitled.md",
     "Users/mac/Desktop.md",
     "Users/mac",
     "Users",
-    "Templates/New Kanban Note.md",
     "Mern Blog.md",
     "Kanban Boards/Coding Projects/Mern Blog.md",
     "Kanban Boards/Coding Projects",
     "Untitled 1.md",
     "Templates",
     "Kanban Boards",
-    "Tables/05 - White red.md",
-    "Tables/02 - PurpleRed.md",
-    "Tables/03 - FlatBlue.md",
-    "Tables/01 - Default Table.md",
-    "Tables/04 - Latex like.md",
-    "Tables/05 - White red rounded.md",
-    "Tables/06 - Yellow cab.md",
+    "Other/Tables/05 - White red.md",
+    "Other/Tables/02 - PurpleRed.md",
+    "Other/Tables/03 - FlatBlue.md",
+    "Other/Tables/01 - Default Table.md",
+    "Other/Tables/04 - Latex like.md",
+    "Other/Tables/05 - White red rounded.md",
+    "Other/Tables/06 - Yellow cab.md",
     "tableStyles.css",
-    "Tables",
+    "Other/Tables",
     "Daily Notes/2024-04-23.md",
     "Daily Notes"
   ]
