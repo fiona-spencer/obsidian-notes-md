@@ -28,22 +28,9 @@
                 "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
               }
             }
-          },
-          {
-            "id": "cf3a71a2a547a54c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
               }
             }
           },
@@ -187,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf3a71a2a547a54c",
+  "active": "821e0b12961a3ac8",
   "lastOpenFiles": [
-    "Users/mac/Desktop.md",
     "Untitled.md",
+    "Users/mac/Desktop.md",
     "Users/mac",
     "Users",
     "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
