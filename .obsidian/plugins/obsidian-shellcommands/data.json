@@ -5,7 +5,9 @@
   "preview_variables_in_command_palette": true,
   "show_autocomplete_menu": true,
   "working_directory": "",
-  "default_shells": {},
+  "default_shells": {
+    "darwin": "/bin/zsh"
+  },
   "environment_variable_path_augmentations": {},
   "show_installation_warnings": true,
   "error_message_duration": 20,
@@ -24,22 +26,22 @@
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "dvyutyi2v0",
+      "id": "5jjw4cxuf2",
       "platform_specific_commands": {
-        "default": "",
+        "default": " code -g ..\\/CURRENT/mern-blog/",
         "darwin": "code -g Desktop/Projects\\ 2024/CURRENT/mern-blog/"
       },
       "shells": {},
       "alias": "",
       "icon": null,
-      "confirm_execution": true,
+      "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
         "stdin": null
       },
       "output_handlers": {
         "stdout": {
-          "handler": "status-bar",
+          "handler": "ignore",
           "convert_ansi_code": true
         },
         "stderr": {
@@ -55,13 +57,41 @@
       "output_handling_mode": "buffered",
       "events": {},
       "command_palette_availability": "enabled",
-      "preactions": [
-        {
-          "type": "prompt",
-          "enabled": true,
-          "prompt_id": "xxq0cuewxa"
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "md0cedi5wq",
+      "platform_specific_commands": {
+        "default": "code ../mern-blog/"
+      },
+      "shells": {},
+      "alias": "",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handlers": {
+        "stdout": {
+          "handler": "ignore",
+          "convert_ansi_code": true
+        },
+        "stderr": {
+          "handler": "notification",
+          "convert_ansi_code": true
         }
-      ],
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
       "variable_default_values": {}
     }
   ],
