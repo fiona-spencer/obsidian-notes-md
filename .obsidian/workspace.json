@@ -27,7 +27,7 @@
               "state": {
                 "file": "Templates/New Kanban Note.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }

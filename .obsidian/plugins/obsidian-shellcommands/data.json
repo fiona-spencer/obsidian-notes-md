@@ -63,10 +63,19 @@
   "prompts": [
     {
       "id": "enkg4bz7ks",
-      "title": "",
+      "title": "file path",
       "description": "",
-      "preview_shell_command": false,
-      "fields": [],
+      "preview_shell_command": true,
+      "fields": [
+        {
+          "type": "single-line-text",
+          "label": "path",
+          "description": "",
+          "default_value": "",
+          "target_variable_id": "",
+          "required": true
+        }
+      ],
       "execute_button_text": "Execute"
     }
   ],
