@@ -27,12 +27,12 @@
       "id": "dvyutyi2v0",
       "platform_specific_commands": {
         "default": "",
-        "darwin": "code --goto {{file:///Users/mac/Desktop/Projects 2024/CURRENT/mern-blog:absolute}}"
+        "darwin": "code . file:///Users/mac/Desktop/Projects 2024/CURRENT/mern-blog"
       },
       "shells": {},
       "alias": "",
       "icon": null,
-      "confirm_execution": false,
+      "confirm_execution": true,
       "ignore_error_codes": [],
       "input_contents": {
         "stdin": null
