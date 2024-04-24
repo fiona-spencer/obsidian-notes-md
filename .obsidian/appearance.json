@@ -6,5 +6,6 @@
   "interfaceFontFamily": "Inter,Times New Roman",
   "enabledCssSnippets": [
     "tableStyles"
-  ]
+  ],
+  "translucency": false
 }

@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b9de3db1c12c6317",
+        "id": "a33ae8d045c581ec",
         "type": "tabs",
         "children": [
           {
-            "id": "84baa748b75ec19a",
+            "id": "de96a3a3453aaccc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "821e0b12961a3ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/New Kanban Note.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -98,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Kanban Note.md",
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Kanban Note.md",
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Kanban Note.md"
+                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
               }
             }
           },
@@ -187,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,14 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "821e0b12961a3ac8",
+  "active": "de96a3a3453aaccc",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/New Kanban Note.md",
     "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
     "Obsidian Syntax.md",
-    "README.md",
     "working on .../Google Calendar.md",
     "working on .../Kanban.md",
-    "Templates/New Kanban Note.md",
     "Other",
     "working on ...",
     "Untitled.md",
