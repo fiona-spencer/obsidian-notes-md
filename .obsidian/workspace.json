@@ -23,9 +23,11 @@
             "id": "821e0b12961a3ac8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
+                "file": "Templates/New Kanban Note.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+                "file": "Templates/New Kanban Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+                "file": "Templates/New Kanban Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
+                "file": "Templates/New Kanban Note.md"
               }
             }
           },
@@ -176,22 +178,22 @@
   },
   "active": "821e0b12961a3ac8",
   "lastOpenFiles": [
+    "Google Calendar.md",
+    "Kanban.md",
+    "README.md",
+    "Obsidian Syntax.md",
+    "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
     "Untitled.md",
     "Users/mac/Desktop.md",
     "Users/mac",
     "Users",
-    "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
     "Templates/New Kanban Note.md",
     "Mern Blog.md",
     "Kanban Boards/Coding Projects/Mern Blog.md",
     "Kanban Boards/Coding Projects",
     "Untitled 1.md",
     "Templates",
-    "Kanban.md",
     "Kanban Boards",
-    "Obsidian Syntax.md",
-    "Google Calendar.md",
-    "README.md",
     "Tables/05 - White red.md",
     "Tables/02 - PurpleRed.md",
     "Tables/03 - FlatBlue.md",
