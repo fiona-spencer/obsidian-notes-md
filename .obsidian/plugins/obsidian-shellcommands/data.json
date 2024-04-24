@@ -27,7 +27,7 @@
       "id": "dvyutyi2v0",
       "platform_specific_commands": {
         "default": "",
-        "darwin": "code . {{file:///Users/mac/Desktop/Projects 2024/CURRENT/mern-blog}}"
+        "darwin": "code -g Desktop/Projects\\ 2024/CURRENT/mern-blog/"
       },
       "shells": {},
       "alias": "",
@@ -39,7 +39,7 @@
       },
       "output_handlers": {
         "stdout": {
-          "handler": "ignore",
+          "handler": "status-bar",
           "convert_ansi_code": true
         },
         "stderr": {
@@ -55,11 +55,43 @@
       "output_handling_mode": "buffered",
       "events": {},
       "command_palette_availability": "enabled",
-      "preactions": [],
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": true,
+          "prompt_id": "xxq0cuewxa"
+        }
+      ],
       "variable_default_values": {}
     }
   ],
-  "prompts": [],
+  "prompts": [
+    {
+      "id": "9c4vrd94gi",
+      "title": "",
+      "description": "",
+      "preview_shell_command": false,
+      "fields": [],
+      "execute_button_text": "Execute"
+    },
+    {
+      "id": "xxq0cuewxa",
+      "title": "open",
+      "description": "",
+      "preview_shell_command": true,
+      "fields": [
+        {
+          "type": "single-line-text",
+          "label": "",
+          "description": "",
+          "default_value": "",
+          "target_variable_id": "",
+          "required": true
+        }
+      ],
+      "execute_button_text": "Execute"
+    }
+  ],
   "builtin_variables": {},
   "custom_variables": [],
   "custom_shells": [],
