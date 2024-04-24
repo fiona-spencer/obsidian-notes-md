@@ -91,3 +91,7 @@ function fancyAlert(arg){
 
 ## Link to File
 [mern-blog file](<file:///Users/mac/Desktop/Projects%202024/CURRENT/mern-blog>)
+
+```zsh
+cd Desktop/
+```
