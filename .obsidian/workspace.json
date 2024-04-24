@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/New Kanban Note.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Kanban Note.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Kanban Note.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Kanban Note.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -191,11 +190,11 @@
   "active": "cf3a71a2a547a54c",
   "lastOpenFiles": [
     "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+    "Untitled.md",
     "Templates/New Kanban Note.md",
     "Mern Blog.md",
     "Kanban Boards/Coding Projects/Mern Blog.md",
     "Kanban Boards/Coding Projects",
-    "Untitled.md",
     "Untitled 1.md",
     "Templates",
     "Kanban.md",
