@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a33ae8d045c581ec",
+        "id": "edf2dcf28ebe1bef",
         "type": "tabs",
         "children": [
           {
-            "id": "de96a3a3453aaccc",
+            "id": "397a54ccad8f9386",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
-              }
+              "type": "weekly",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4aa4963c2534e1e1",
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kanban Boards/Coding Projects/Coding Projects (BOARD).md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,14 +160,21 @@
               "type": "SC-custom-variables-view",
               "state": {}
             }
+          },
+          {
+            "id": "9d80dee4ad89d16a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,20 +184,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "de96a3a3453aaccc",
+  "active": "9d80dee4ad89d16a",
   "lastOpenFiles": [
+    "2024-04-24.md",
+    "2024-04-22.md",
+    "Daily Notes/2024-04-23.md",
+    "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
+    "Untitled.md",
+    "Untitled",
     "README.md",
     "Templates/New Kanban Note.md",
-    "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
     "Obsidian Syntax.md",
     "working on .../Google Calendar.md",
     "working on .../Kanban.md",
     "Other",
     "working on ...",
-    "Untitled.md",
     "Users/mac/Desktop.md",
     "Users/mac",
     "Users",
@@ -215,8 +220,6 @@
     "Other/Tables/05 - White red rounded.md",
     "Other/Tables/06 - Yellow cab.md",
     "tableStyles.css",
-    "Other/Tables",
-    "Daily Notes/2024-04-23.md",
-    "Daily Notes"
+    "Other/Tables"
   ]
 }
