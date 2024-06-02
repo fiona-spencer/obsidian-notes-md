@@ -56,4 +56,21 @@ myVar/= 5;
 var myStr = "I am a \"double quoted" string inside";
 ```
 
-#### \\b - backspace
+* \\b - backspace
+* \\t - horizontal tab
+* \\n - newline
+* \\v - vertical tab
+* \\f - form feed
+* \\r - carriage return
+* \\" - double quote
+* \\' - sing quote
+* \\ - backslash
+* \\Xnn - The Unicode character specified by the two hexadecimal digits nn
+* \\Unn - The Unicode character specified by the four hexadecimal digits nnnn
+* \\U {n} - The Unicode character specified by the code point n, where i is one to six hexadecimal digits between 0 and 10FFFF (ES6)
+
+## Quoting Strings
+
+```js
+var myStr = `<a href="https://google.>`
+```
