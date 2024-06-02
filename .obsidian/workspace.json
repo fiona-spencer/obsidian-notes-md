@@ -27,7 +27,6 @@
               "state": {
                 "file": "JAVASCRIPT NOTES.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -173,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +189,8 @@
   },
   "active": "ede1e8c5e82d79a5",
   "lastOpenFiles": [
-    "Software Dev RoadMap.md",
     "JAVASCRIPT NOTES.md",
+    "Software Dev RoadMap.md",
     "Complete Git-Hub Projects.md",
     "Obsidian Syntax.md",
     "README.md",

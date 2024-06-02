@@ -552,8 +552,19 @@ checkAge(18);
 function test(str){
 	"use strict";  //a ways to opt in a restricted variant of JS
 
-	const NAME = 
+	const PI = 3.14;
 }
 ```
 
-## test
+## Prevent Object Mutation
+
+```js
+function freezeObj(){
+	"use strict";
+	const MATH_CONSTANTS = {
+		PI: 3.14
+	};
+
+	try
+}
+```
