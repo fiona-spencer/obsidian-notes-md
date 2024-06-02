@@ -150,13 +150,14 @@ function test(){
 
 var sum = 0;
 
+//undefined function
 function addThree(){
 	sum = sum + 3;
 }
 
+//defined function
 function addFive(){
-	sum = sum + 5;
-	return sum;
+	return sum += 5;
 }
 ```
 
@@ -173,3 +174,30 @@ test();
 ## Scope
 1. Global
 2. Local
+
+## nextInLine Function
+```js
+function nextInLine(arr, item){
+	arr.push(item);
+	return arr.shift();
+}
+
+var testArr = [1, 2, 3, 4, 5];
+
+console.log("Before :" + JSON.stringify(testArr));
+console.log(nextInLine(testArr, 6));
+console.log("After :" + JSON.stringify(testArr));
+```
+
+## If Statements
+
+```js
+function trueOfFalse(isTrue){
+	if(isTrue){
+		return "YES, TRUE";
+	}
+	return "NO, FALSE";
+}
+
+function true
+```
