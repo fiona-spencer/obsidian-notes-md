@@ -565,6 +565,29 @@ function freezeObj(){
 		PI: 3.14
 	};
 
-	try
+	try{
+		MATH_CONSTANTS.PI = 99;
+	} catch (e){
+		console.log(e);
+	}
+	return MATH_CONSTANTS.PI;
 }
+
+const PI = freezeObj();
+
+console.log(PI);
+```
+
+## Arrow Function
+
+```js
+var fnc = function() {
+	return new Date();
+};
+//anonymous can be turned into arrrow functions
+
+const fnc = () => new Date();
+
+//arrow function with parameters
+const myConcat = (arr1, arr2) => arr1.concat(arr2);
 ```
