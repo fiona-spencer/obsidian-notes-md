@@ -549,5 +549,9 @@ checkAge(18);
 ## Constants
 
 ```js
-function test(str)
+function test(str){
+	"use strict";  //a ways to opt in a restricted variant of JS
+
+	const NAME
+}
 ```
