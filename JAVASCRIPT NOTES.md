@@ -331,3 +331,20 @@ var sockValue = testObj["a pair of socks"];
 var clothingType = "";
 var clothingValue = testObj[clothingType];
 ```
+
+## Adjusting Objects
+
+```js
+var ourDog = {
+	"name": "camper",
+	"legs": 4,
+	"tails": 1,
+	"food": ["chicken", "beef"]
+};
+
+//changing property
+ourDog.name = "Emma";
+//adding a new property
+ourDog.bark = "woof";
+myDg
+```
