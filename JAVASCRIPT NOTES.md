@@ -533,5 +533,15 @@ convertToBinary("1010");
 ## Ternary Operator
 
 ```js
-//con
+//conditon ? statement-if-true : statement-if-false
+function checkSign(sum){
+	return num > 0 ? "positive" : "negative";
+}
+checkSign(10);
+
+//nested ternary
+function checkAge(age){
+	retrun age > 18 ? "enter" : age < 18 ? "denied" : "you are 18';
+}
+checkAge(18);
 ```
