@@ -192,12 +192,30 @@ console.log("After :" + JSON.stringify(testArr));
 ## If Statements
 
 ```js
-function trueOfFalse(isTrue){
+function trueOrFalse(isTrue){
 	if(isTrue){
 		return "YES, TRUE";
 	}
 	return "NO, FALSE";
 }
+```
 
-function true
+## Equality Statements
+1. Non-strict (\==)
+2. Strict (\=\==)
+3. Inequality (!=)
+4. Strict inequality (!\==)
+
+```js
+function testEqual(val){
+	if (val == 12){
+		return "Equal";
+	}
+	return "Not Equal";
+}
+
+/* strict type comparison
+3 === 3 - true
+3 === "3" - false
+*/
 ```
