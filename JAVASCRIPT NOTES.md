@@ -72,5 +72,17 @@ var myStr = "I am a \"double quoted" string inside";
 ## Quoting Strings
 
 ```js
-var myStr = `<a href="https://google.>`
+var myStr = `<a href="https://google.com>" target"_blank>LINK</a>`;
 ```
+
+## String Concatenation
+
+```js
+var first = "My name is ";
+var second = "fiona";
+var totalString = first + second;
+```
+
+## String Properties
+
+1. Length ```js ```
