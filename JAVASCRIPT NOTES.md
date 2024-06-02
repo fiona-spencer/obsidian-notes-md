@@ -598,6 +598,35 @@ const myConcat = (arr1, arr2) => arr1.concat(arr2);
 const realNumberArray = [4, 5.6, 1, -3, 8, 39, 9.40, -29];
 
 const squareList = (arr) => {
-	const sqauredIntegers = arr.filter(num => Number.isInteger(num))
-}
+	const sqauredIntegers = arr.filter(num => Number.isInteger(num) && num > 0).map(x => x * x);
+	return squaredIntegers;
+};
+
+const squaredIntegers = squareList(realNumberArray);
+console.log(squaredIntegers);
+```
+
+## Higher Order Arrow Functions
+
+```js
+const increment = (function (){
+	return function increment(number, value = 1){
+		return number + value;
+	};
+})();
+console.log(increment(5, 2));
+console.log(increment(5));
+```
+
+## Rest Operation
+
+```js
+//variable amount of arguments
+const sum = (function(){
+	return function sum(...ar){
+		const args = [x, y, z];
+		return args.reduce((a, b) => a + b, 0);
+	};
+})();
+console.log(sum(1, 2, 3));
 ```
