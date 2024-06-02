@@ -218,6 +218,28 @@ function requirement(age){
 }
 ```
 
+## For Loop
+
+```js
+var ourArray = [];
+
+for (var i = 0; i < 5; i++){  //inital, condition, increment
+	ourArray.push(i);
+}
+```
+## While Loop
+
+```js
+var myArray = [];
+
+var i = 0;
+while(i < 5){
+	myArray.push(i);
+	i++;
+}
+
+console.log(myArray);
+```
 ## Switch Statements
 
 ```js
@@ -372,6 +394,7 @@ console.log(phoneticLookup("charlie"));
 ```
 
 ## Testing Objects
+
 ```js
 var myObj = {
 	gift: "pony",
@@ -391,6 +414,7 @@ console.log(checkObj("gift"));
 ```
 
 ## Complex Objects
+
 ```js
 var myMusic = [
 	//First record
@@ -430,5 +454,5 @@ var myStorage = {
 	}
 };
 
-var gloveBoxContents = myStorage.car.
+var gloveBoxContents = myStorage.car.inside.["glove box];
 ```
