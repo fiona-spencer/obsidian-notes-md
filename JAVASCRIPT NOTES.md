@@ -106,3 +106,31 @@ var first = myStr[2];  //3
 myStr[0] = "H";   //does not work, instead
 myStr = "Hello";
 ```
+
+## Arrays
+
+```js
+var arr = ["John", 23];
+var multiArr = ["Smith", [1, 2, 3], ['A', 'B']];
+```
+
+## Modify Arrays
+
+```js
+var myArray = [1, 2, 3, 4, 5];
+myArray[0] = 10;
+```
+
+## Access Multi-Dimensional Array
+
+```js
+myArray[2][1] = "C";
+```
+
+## Manipulating Arrays
+1. Push
+
+
+```js
+
+```
