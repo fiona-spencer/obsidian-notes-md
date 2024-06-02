@@ -17,7 +17,6 @@ var positive = false;   //boolean
 var myName = 'Fiona';   //string
 var myName = 'A';   //symbol
 var myNumber = 3;   //number
-var
 ```
 
 ## Math Operations
@@ -129,8 +128,25 @@ myArray[2][1] = "C";
 
 ## Manipulating Arrays
 1. Push
+2. Pop
+3. Shift
+4. Unshift
 
 
 ```js
+var arr = [1, 2, 3];
+arr.push(4);   //[1, 2, 3, 4]
+arr.pop();     //[1, 2, 3]
+arr.shift();   //[2, 3]
+arr.unshift(0) //[0, 2, 3]
+```
 
+## Functions
+
+```js
+function test(){
+	console.log("Hello, world!");
+}
+
+test();
 ```
