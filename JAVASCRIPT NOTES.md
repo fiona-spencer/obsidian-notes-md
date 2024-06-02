@@ -17,6 +17,12 @@ var positive = false;   //boolean
 var myName = 'Fiona';   //string
 var myName = 'A';   //symbol
 var myNumber = 3;   //number
+var arr = [1, 2, 3, 4] //array with indexes
+var myObj = {
+	"name" : "fiona",
+	"age" : 21,
+	
+}
 ```
 
 ## Math Operations
@@ -257,6 +263,7 @@ function characterSwitch(val){
 
 console.log(characterSwitch(1));
 ```
+
 ## Equality Statements
 1. Non-strict (\==)
 2. Strict (\=\==)
@@ -284,3 +291,13 @@ function testEqual(val){
 ## And/Or Operations
 1. &&
 2. ||
+
+## Returning Boolean
+
+```js
+function isLess(a, b){
+	return a < b'
+}
+
+isLess(10, 15);
+```
