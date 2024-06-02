@@ -545,3 +545,9 @@ function checkAge(age){
 }
 checkAge(18);
 ```
+
+## Constants
+
+```js
+function test(str)
+```
