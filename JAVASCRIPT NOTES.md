@@ -258,7 +258,15 @@ console.log(myArray);
 ## Do While Loop
 
 ```js
+var myArray = [];
+var i = 10;
 
+do {
+	myArray.push(i);
+	i++;
+} while (i < 5)
+
+console.log(i, myArray);  //11, [10]
 ```
 
 ## Switch Statements
@@ -476,4 +484,20 @@ var myStorage = {
 };
 
 var gloveBoxContents = myStorage.car.inside.["glove box];
+```
+
+## Random Function
+
+```js
+function randomNumber(min, max){
+	return Math.floor(Math.random90 * (max - min + 1)) + min;
+}
+
+randomNumber(0, 10);
+```
+
+## Math Objects
+
+```js
+
 ```
