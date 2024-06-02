@@ -552,6 +552,6 @@ checkAge(18);
 function test(str){
 	"use strict";  //a ways to opt in a restricted variant of JS
 
-	const NAME
+	const NAME = 
 }
 ```
