@@ -362,11 +362,37 @@ function phoneticLookup(val){
 		"charlie": "Chicago",
 		"delta": "Denver",
 		"echo": "Easy",
-		"foxtrot": "Frank",
+		"foxtrot": "Frank"
 	};
 	result = lookup[val];
 	return result;
 }
 
 console.log(phoneticLookup("charlie"));
+```
+
+## Testing Objects
+```js
+var myObj = {
+	gift: "pony",
+	pet: "kitten",
+	bed: "sleigh"
+};
+
+function checkObj(checkProp){
+	if (myObj.hasOwnProperty(checkProp)){
+		return "contains property: " + myObj[checkProp];
+	} else {
+		return "not found, please enter another property";
+	}
+}
+
+console.log(checkObj("gift"));
+```
+
+## Complex Objects
+```js
+var myMusic = {
+
+}
 ```
