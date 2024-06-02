@@ -392,7 +392,43 @@ console.log(checkObj("gift"));
 
 ## Complex Objects
 ```js
-var myMusic = {
+var myMusic = [
+	//First record
+	{
+		"artist": "Billy Joel",
+		"title": "Piano Man",
+		"release_year": 1973,
+		"format": [
+			"CD",
+			"LP"
+		],
+		"favourites": false
+	},
+	//second record
+	{
+		"artist": "Elton John",
+		"title": "Yellow Brick Road",
+		"release_year": 1973,
+		"format": [
+			"LP"
+		],
+		"favourites": true
+	}
+];
 
-}
+
+//accessing nested objects
+var myStorage = {
+	"car": {
+		"inside": {
+			"glove box": "maps",
+			"passenger seat": "bag"
+		},
+		"outside": {
+			"trunk": "spare tire"
+		}
+	}
+};
+
+var gloveBoxContents = myStorage.car.
 ```
