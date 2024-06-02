@@ -217,7 +217,6 @@ function requirement(age){
 	}
 }
 ```
-
 ## For Loop
 
 ```js
@@ -226,6 +225,21 @@ var ourArray = [];
 for (var i = 0; i < 5; i++){  //inital, condition, increment
 	ourArray.push(i);
 }
+
+//nested for-loops
+
+function addAll(arr){
+	var result;
+
+	for (var i = 0; i < arr.length; i++){
+		for (var i = 0; i < arr[i].length; i++){
+			result += arr[i][j];
+		}
+	}
+	return result;
+}
+
+var values = addAll([1, 2, 3], [4, 5], [6]);
 ```
 ## While Loop
 
@@ -240,6 +254,13 @@ while(i < 5){
 
 console.log(myArray);
 ```
+
+## Do While Loop
+
+```js
+
+```
+
 ## Switch Statements
 
 ```js
