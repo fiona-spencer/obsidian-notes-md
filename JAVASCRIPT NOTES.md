@@ -85,4 +85,22 @@ var totalString = first + second;
 
 ## String Properties
 
-1. Length ```js ```
+1. Length 
+```js
+var lastName = "Spencer;
+var lastNameLength = lastName.length;
+```
+
+## Zero-Based Indexing
+```js
+var myStr = '123';
+var first = myStr[0];  //1
+var first = myStr[1];  //2
+var first = myStr[2];  //3
+```
+
+## String Character Immutability
+```js
+myStr[0] = "H";   //does not work, instead
+myStr = "Hello";
+```
