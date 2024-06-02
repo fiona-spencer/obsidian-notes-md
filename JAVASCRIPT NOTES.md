@@ -591,3 +591,13 @@ const fnc = () => new Date();
 //arrow function with parameters
 const myConcat = (arr1, arr2) => arr1.concat(arr2);
 ```
+
+## Using Arrow Functions
+
+```js
+const realNumberArray = [4, 5.6, 1, -3, 8, 39, 9.40, -29];
+
+const squareList = (arr) => {
+	const sqauredIntegers = arr.filter(num => Number.isInteger(num))
+}
+```
