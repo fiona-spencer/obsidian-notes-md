@@ -346,5 +346,27 @@ var ourDog = {
 ourDog.name = "Emma";
 //adding a new property
 ourDog.bark = "woof";
-myDg
+ourDog['toy'] = "sheep";
+//deleting a property
+delete ourDog.bark;
+```
+
+## Object Lookup
+
+```js
+function phoneticLookup(val){
+	var result = "";
+	var lookup = {
+		"alpha": "Adams",
+		"bravo": "Boston",
+		"charlie": "Chicago",
+		"delta": "Denver",
+		"echo": "Easy",
+		"foxtrot": "Frank",
+	};
+	result = lookup[val];
+	return result;
+}
+
+console.log(phoneticLookup("charlie"));
 ```
