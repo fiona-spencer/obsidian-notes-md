@@ -493,11 +493,45 @@ function randomNumber(min, max){
 	return Math.floor(Math.random90 * (max - min + 1)) + min;
 }
 
-randomNumber(0, 10);
+randomNumber(0, 10);  //range 0-10, exlusive
 ```
 
 ## Math Objects
 
-```js
+1. Math.abs
+2. Math.PI
+3. Math.sin
+4. Math.cos
+5. Math.tan
+6. Math.min
+7. Math.max
+8. Math.pow
+9. Math.exp
+10. Math.sqrt
+11. Math.log
+12. Math.ceil
+13. Math.floor
+14. Math.round
+15. Math.random
+16. Math.trunc
 
+## Parsing
+
+```js
+function convertToInteger(str){
+	return parseInt(str);
+}
+
+function convertToBinary(str){
+	return parseInt(str, 2);  //argument, base
+}
+
+convertToInteger("60");
+convertToBinary("1010");
+```
+
+## Ternary Operator
+
+```js
+//con
 ```
