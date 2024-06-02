@@ -21,8 +21,8 @@ var arr = [1, 2, 3, 4] //array with indexes
 var myObj = {
 	"name" : "fiona",
 	"age" : 21,
-	
-}
+	"height" : 180
+};   //object with properties
 ```
 
 ## Math Operations
@@ -300,4 +300,31 @@ function isLess(a, b){
 }
 
 isLess(10, 15);
+```
+
+## Objects
+
+```js
+var ourDog = {
+	"name": "camper",
+	"legs": 4,
+	"tails": 1,
+	"food": ["chicken", "beef"],
+};
+```
+
+## Accessing Objects
+1. Dot notation
+2. Bracket notations
+```js
+var testObj = {
+	"hat": "ballcap",
+	"shirt": "jersey",
+	"shoes": "cleats",
+};
+
+var hatValue = testObj.hat;
+var shirtValue = testObj.shirt;
+
+var 
 ```
