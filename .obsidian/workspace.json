@@ -159,14 +159,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "400b526e5ea28ede",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
