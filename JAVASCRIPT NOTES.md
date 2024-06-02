@@ -618,15 +618,37 @@ console.log(increment(5, 2));
 console.log(increment(5));
 ```
 
-## Rest Operation
+## Rest Operator
 
 ```js
 //variable amount of arguments
 const sum = (function(){
-	return function sum(...ar){
-		const args = [x, y, z];
+	return function sum(...args){
 		return args.reduce((a, b) => a + b, 0);
 	};
 })();
-console.log(sum(1, 2, 3));
+console.log(sum(1, 2, 3));  //x amounts of arguments
+```
+
+```js
+const arr1 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];
+let arr2;
+(function() {
+	arr2 = [...arr1];
+	arr1[0] = 'potato';
+})();
+console.log(arr2);
+```
+
+## Destructuring Assignment
+
+```js
+var voxel = {x: 3.6, y: 7.4, z: 6.54};
+
+//old assigment
+var x = voxel.x;
+var y = voxel.y;
+var z = voxel.z;
+
+
 ```
