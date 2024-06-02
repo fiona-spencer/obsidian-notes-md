@@ -650,5 +650,22 @@ var x = voxel.x;
 var y = voxel.y;
 var z = voxel.z;
 
-
+//destructuring assignment
+const { x : a, y : b, z: c } = voxel;
 ```
+
+```js
+const AVG_TEMP = {
+	today: 21.5,
+	tommorow: 18
+};
+
+function getTemp(avgTemp){
+	"use strict";
+	 const { tomorrow : tempOfTomorrow} = avgTemp;
+	 return tempOfTommorow;
+}
+
+console.log(getTemp(AVG_TEMP));
+```
+
