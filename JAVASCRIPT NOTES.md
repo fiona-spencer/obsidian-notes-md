@@ -212,6 +212,51 @@ function requirement(age){
 }
 ```
 
+## Switch Statements
+
+```js
+function caseInSwitch(val){
+	var answer = "";
+	switch(val){
+		case 1:
+			answer = "alpha";
+			break;
+		case 2:
+			answer = "beta";
+			break;
+		case 3:
+			answer = "gamma";
+			break;
+		case 4:
+			answer = "delta";
+			break;
+	}
+	return answer;
+}
+
+console.log(caseInSwitch(1));
+
+function characterSwitch(val){
+	var answer = "";
+	switch(val){
+		case "a":
+			answer = "apple";
+			break;
+		case "b":
+			answer = "banana";
+			break;
+		case "c":
+			answer = "cat";
+			break;
+		default:
+			answer = "please enter again";
+			break;
+	}
+	return answer;
+}
+
+console.log(characterSwitch(1));
+```
 ## Equality Statements
 1. Non-strict (\==)
 2. Strict (\=\==)
