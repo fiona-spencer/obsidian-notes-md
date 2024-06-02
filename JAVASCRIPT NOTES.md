@@ -22,13 +22,13 @@ var
 
 ## Math Operations
 
-* addition
-* subtraction
-* multiplication
-* division
-* modulus
-* increment
-* decrement
+* addition (+)
+* subtraction (_)
+* multiplication (*)
+* division (/)
+* modulus (%)
+* increment (++)
+* decrement (--)
 
 ## Assignment Variables
 
@@ -43,4 +43,17 @@ var b = 2;  //declaration and assignment
 var myVar = 10;
 myVar++;  //equivalent to myVar = myVar + 1;
 myVar--;  //equivalent to myVar = myVar - 1;
+//Augmented math operations
+myVar+= 5;
+myVar-= 5;
+myVar*= 5;
+myVar/= 5;
 ```
+
+## Escaping Sequences
+
+```js
+var myStr = "I am a \"double quoted" string inside";
+```
+
+#### \\b - backspace
