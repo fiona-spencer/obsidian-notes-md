@@ -309,7 +309,7 @@ var ourDog = {
 	"name": "camper",
 	"legs": 4,
 	"tails": 1,
-	"food": ["chicken", "beef"],
+	"food": ["chicken", "beef"]
 };
 ```
 
@@ -321,10 +321,13 @@ var testObj = {
 	"hat": "ballcap",
 	"shirt": "jersey",
 	"shoes": "cleats",
+	"a pair of socks": "white"
 };
 
 var hatValue = testObj.hat;
 var shirtValue = testObj.shirt;
 
-var 
+var sockValue = testObj["a pair of socks"];
+var clothingType = "";
+var clothingValue = testObj[clothingType];
 ```
