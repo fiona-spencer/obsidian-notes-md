@@ -189,7 +189,7 @@ console.log(nextInLine(testArr, 6));
 console.log("After :" + JSON.stringify(testArr));
 ```
 
-## If Statements
+## If/Else-if Statements
 
 ```js
 function trueOrFalse(isTrue){
@@ -198,6 +198,18 @@ function trueOrFalse(isTrue){
 	}
 	return "NO, FALSE";
 }
+
+function requirement(age){
+	if (age > 18){
+		return "allowed";
+	} else if (age < 18){
+		return "denied";
+	} else if (age == 18){
+		return "you are 18"'
+	} else {
+		return "please enter a number";
+	}
+}
 ```
 
 ## Equality Statements
@@ -205,6 +217,10 @@ function trueOrFalse(isTrue){
 2. Strict (\=\==)
 3. Inequality (!=)
 4. Strict inequality (!\==)
+5. Greater than (>)
+6. Greater than or equal to (>=)
+7. Less than (<)
+8. Less than or equal to (<=)
 
 ```js
 function testEqual(val){
@@ -219,3 +235,7 @@ function testEqual(val){
 3 === "3" - false
 */
 ```
+
+## And/Or Operations
+1. &&
+2. ||
