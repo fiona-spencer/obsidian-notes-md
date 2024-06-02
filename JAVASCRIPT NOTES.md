@@ -92,6 +92,7 @@ var lastNameLength = lastName.length;
 ```
 
 ## Zero-Based Indexing
+
 ```js
 var myStr = '123';
 var first = myStr[0];  //1
@@ -100,6 +101,7 @@ var first = myStr[2];  //3
 ```
 
 ## String Character Immutability
+
 ```js
 myStr[0] = "H";   //does not work, instead
 myStr = "Hello";
