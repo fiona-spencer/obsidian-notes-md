@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "397a54ccad8f9386",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b18be310cebb2e5",
+            "id": "eac63c78a046b117",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complete Git-Hub Projects.md",
+                "file": "Software Dev RoadMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede1e8c5e82d79a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVASCRIPT NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complete Git-Hub Projects.md",
+                "file": "JAVASCRIPT NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complete Git-Hub Projects.md",
+                "file": "JAVASCRIPT NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complete Git-Hub Projects.md"
+                "file": "JAVASCRIPT NOTES.md"
               }
             }
           },
@@ -174,19 +178,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4b18be310cebb2e5",
+  "active": "ede1e8c5e82d79a5",
   "lastOpenFiles": [
-    "2024-04-24.md",
+    "Software Dev RoadMap.md",
+    "JAVASCRIPT NOTES.md",
     "Complete Git-Hub Projects.md",
+    "Obsidian Syntax.md",
+    "README.md",
+    "2024-04-24.md",
     "2024-04-25.md",
     "Untitled 1",
     "2024-04-22.md",
     "Daily Notes/2024-04-23.md",
     "Kanban Boards/Coding Projects/Coding Projects (BOARD).md",
     "Untitled",
-    "README.md",
     "Templates/New Kanban Note.md",
-    "Obsidian Syntax.md",
     "working on .../Google Calendar.md",
     "working on .../Kanban.md",
     "Other",
