@@ -150,3 +150,17 @@ function test(){
 
 test();
 ```
+
+## Function with Arguments
+
+```js
+function test(parameter1, parameter2){
+	console.log(parameter1 + parameter2);
+}
+
+test();
+```
+
+## Scope
+1. Global
+2. Local
